@@ -24,7 +24,7 @@ namespace E2
                 {
                     if(aux.cantidadDeTurnos<50)
                     {
-                        Console.WriteLine("El medico " + aux.nombre + " Esta Disponible");
+                        return ("El medico " + aux.nombre + " Esta Disponible");
                     }
                 }
             }

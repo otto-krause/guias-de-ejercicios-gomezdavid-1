@@ -24,7 +24,7 @@ namespace E2
             Console.WriteLine("Bienvenido al sistema de turnos del hospital 'Guemes'");
             Console.WriteLine("Ingrese la especialidad deseada:");
             especialidad = Console.ReadLine();
-            clinica.AsignarTurno(especialidad);
+            Console.WriteLine(" " + clinica.AsignarTurno(especialidad));
         }
     }
 }
