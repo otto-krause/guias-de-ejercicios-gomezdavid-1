@@ -1,15 +1,5 @@
 ﻿using System;
 
-/*Crear la clase Matematicas2, la cual recibe listas de números enteros y devuelve:
-Primos: devuelve solo los números que son primos.
-Pares: devuelve solo los números que son pares.
-Aplanar: muestra la lista sin repetidos.
-Suma: devuelve la sumatoria de todos los números.
-SumaDePrimos: devuelve la sumatoria de todos los números que son primos.
-Máximo: devuelve el número más grande.
-Minimo: Devuelve el número más chico.
-*/
-
 namespace E8
 {
     class Program
